@@ -55,10 +55,10 @@ body {
 
 .text-info {
 	position: absolute;
-	bottom: -55px;
+	bottom: 0;
 	left: .75rem;
 	width: 100%;
-	background-color: #083C6E;
+	background-color: #083c6ede;
 	padding-top: 8px;
 	padding-bottom: 8px;
 }
