@@ -25,3 +25,18 @@
 <br>
 
 ---
+
+<!-- > В моём личном блоге есть [_**пост**_](https://t.me/morozov_code/75) об этом проекте. -->
+
+> Открыть сайт можно по ссылке: [morozovcode.github.io/Fave-kits](https://morozovcode.github.io/Fave-kits/)
+
+### Установить проект к себе можно следующим образом:
+
+- В терминале последовательно вводим команды:
+
+```
+$ git clone https://github.com/MOROZOVcode/Fave-kits.git
+$ cd Fave-kits
+```
+
+- Чтобы открыть сайт в режиме разработки, можно вослользоваться плагином «[Live Server](https://visualstudiocode1.ru/ustanovka-i-nastrojka-liveserver-v-vs-code.html)» для вашей IDE или открыть в браузере файл `index.html`(который находится в корне проекта).
