@@ -26,7 +26,7 @@
 
 ---
 
-<!-- > В моём личном блоге есть [_**пост**_](https://t.me/morozov_code/75) об этом проекте. -->
+> В моём личном блоге есть [_**пост**_](https://t.me/morozov_code/109) об этом проекте.
 
 > Открыть сайт можно по ссылке: [morozovcode.github.io/Fave-kits](https://morozovcode.github.io/Fave-kits/)
 
